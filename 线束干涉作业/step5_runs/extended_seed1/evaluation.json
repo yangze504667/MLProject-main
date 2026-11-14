@@ -1,0 +1,1109 @@
+{
+  "format": "BundleInterferenceEvaluation",
+  "version": "2.0",
+  "primary_metric": "cable_collision_length",
+  "units": "Millimeters",
+  "bundle_count": 30,
+  "submitted_count": 30,
+  "total_before_length_mm": 2733.328339778715,
+  "total_after_length_mm": 195.01184333443297,
+  "total_improvement_pct": 92.86540733155313,
+  "submitted_improvement_pct": 92.86540733155313,
+  "before_cable_colliding_bundles": 29,
+  "after_cable_colliding_bundles": 21,
+  "chassis_before_length_mm": 882.5063485256172,
+  "chassis_after_length_mm": 1971.9549198720563,
+  "chassis_improvement_pct": -123.449374972379,
+  "before_chassis_colliding_bundles": 19,
+  "after_chassis_colliding_bundles": 22,
+  "before_pair_count": 71,
+  "after_pair_count": 33,
+  "new_pairs": [],
+  "removed_pairs": [
+    [
+      0,
+      30
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      1,
+      15
+    ],
+    [
+      1,
+      22
+    ],
+    [
+      1,
+      29
+    ],
+    [
+      1,
+      46
+    ],
+    [
+      1,
+      58
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      4,
+      29
+    ],
+    [
+      4,
+      58
+    ],
+    [
+      6,
+      29
+    ],
+    [
+      13,
+      26
+    ],
+    [
+      13,
+      47
+    ],
+    [
+      13,
+      58
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      15,
+      46
+    ],
+    [
+      15,
+      47
+    ],
+    [
+      15,
+      58
+    ],
+    [
+      19,
+      31
+    ],
+    [
+      19,
+      47
+    ],
+    [
+      22,
+      46
+    ],
+    [
+      22,
+      47
+    ],
+    [
+      22,
+      50
+    ],
+    [
+      26,
+      40
+    ],
+    [
+      26,
+      42
+    ],
+    [
+      26,
+      47
+    ],
+    [
+      26,
+      50
+    ],
+    [
+      29,
+      32
+    ],
+    [
+      29,
+      33
+    ],
+    [
+      29,
+      46
+    ],
+    [
+      29,
+      58
+    ],
+    [
+      29,
+      63
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      32,
+      34
+    ],
+    [
+      41,
+      47
+    ],
+    [
+      42,
+      50
+    ],
+    [
+      47,
+      50
+    ]
+  ],
+  "before_pairs": [
+    [
+      0,
+      30
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      1,
+      15
+    ],
+    [
+      1,
+      22
+    ],
+    [
+      1,
+      29
+    ],
+    [
+      1,
+      46
+    ],
+    [
+      1,
+      58
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      4,
+      29
+    ],
+    [
+      4,
+      46
+    ],
+    [
+      4,
+      49
+    ],
+    [
+      4,
+      58
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      5,
+      15
+    ],
+    [
+      5,
+      29
+    ],
+    [
+      6,
+      29
+    ],
+    [
+      6,
+      46
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      13,
+      19
+    ],
+    [
+      13,
+      26
+    ],
+    [
+      13,
+      28
+    ],
+    [
+      13,
+      47
+    ],
+    [
+      13,
+      58
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      14,
+      47
+    ],
+    [
+      14,
+      49
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      15,
+      29
+    ],
+    [
+      15,
+      46
+    ],
+    [
+      15,
+      47
+    ],
+    [
+      15,
+      54
+    ],
+    [
+      15,
+      58
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      19,
+      28
+    ],
+    [
+      19,
+      31
+    ],
+    [
+      19,
+      47
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      22,
+      46
+    ],
+    [
+      22,
+      47
+    ],
+    [
+      22,
+      50
+    ],
+    [
+      22,
+      58
+    ],
+    [
+      23,
+      31
+    ],
+    [
+      23,
+      47
+    ],
+    [
+      26,
+      40
+    ],
+    [
+      26,
+      42
+    ],
+    [
+      26,
+      47
+    ],
+    [
+      26,
+      50
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      29,
+      32
+    ],
+    [
+      29,
+      33
+    ],
+    [
+      29,
+      46
+    ],
+    [
+      29,
+      58
+    ],
+    [
+      29,
+      63
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      32,
+      34
+    ],
+    [
+      32,
+      63
+    ],
+    [
+      41,
+      47
+    ],
+    [
+      42,
+      50
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      46,
+      49
+    ],
+    [
+      46,
+      58
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      47,
+      50
+    ],
+    [
+      49,
+      58
+    ],
+    [
+      54,
+      58
+    ]
+  ],
+  "after_pairs": [
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      46
+    ],
+    [
+      4,
+      49
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      5,
+      15
+    ],
+    [
+      5,
+      29
+    ],
+    [
+      6,
+      46
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      13,
+      19
+    ],
+    [
+      13,
+      28
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      14,
+      47
+    ],
+    [
+      14,
+      49
+    ],
+    [
+      15,
+      29
+    ],
+    [
+      15,
+      54
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      19,
+      28
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      22,
+      58
+    ],
+    [
+      23,
+      31
+    ],
+    [
+      23,
+      47
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      32,
+      63
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      46,
+      49
+    ],
+    [
+      46,
+      58
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      49,
+      58
+    ],
+    [
+      54,
+      58
+    ]
+  ],
+  "evaluation_seconds": 7.484208374997252,
+  "bundles": [
+    {
+      "id": 0,
+      "submitted": true,
+      "before_length_mm": 9.573434466779698,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 213.58540989081956,
+      "candidate_path_length_mm": 209.226328218758,
+      "path_length_increase_pct": -2.0409079788220708,
+      "sampled_max_displacement_mm": 7.223446394117219
+    },
+    {
+      "id": 1,
+      "submitted": true,
+      "before_length_mm": 259.4910409396489,
+      "after_length_mm": 6.596309268711214,
+      "improvement_pct": 97.45798188452858,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 5.173535063688066,
+      "chassis_after_length_mm": 74.75273616439718,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 411.92533960751945,
+      "candidate_path_length_mm": 406.75574176765326,
+      "path_length_increase_pct": -1.2549841786358096,
+      "sampled_max_displacement_mm": 8.09834420698844
+    },
+    {
+      "id": 4,
+      "submitted": true,
+      "before_length_mm": 113.91014270576501,
+      "after_length_mm": 11.12656675285623,
+      "improvement_pct": 90.2321544960253,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 55.40283541076769,
+      "chassis_after_length_mm": 116.66398593383765,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 399.8672473965175,
+      "candidate_path_length_mm": 467.26135546785974,
+      "path_length_increase_pct": 16.854120588804488,
+      "sampled_max_displacement_mm": 73.4485608715004
+    },
+    {
+      "id": 5,
+      "submitted": true,
+      "before_length_mm": 86.10766383028306,
+      "after_length_mm": 14.144571985474172,
+      "improvement_pct": 83.57338783066636,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 28.910545353222457,
+      "chassis_before_collides": false,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 125.09043449368751,
+      "candidate_path_length_mm": 145.6756819626228,
+      "path_length_increase_pct": 16.456292243492122,
+      "sampled_max_displacement_mm": 12.29157938415563
+    },
+    {
+      "id": 6,
+      "submitted": true,
+      "before_length_mm": 105.20065610029874,
+      "after_length_mm": 12.736265743840484,
+      "improvement_pct": 87.89335901888514,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 115.7438701943282,
+      "candidate_path_length_mm": 131.21708320384732,
+      "path_length_increase_pct": 13.368494576464718,
+      "sampled_max_displacement_mm": 6.748112726973369
+    },
+    {
+      "id": 13,
+      "submitted": true,
+      "before_length_mm": 150.50106584356578,
+      "after_length_mm": 13.459686907088397,
+      "improvement_pct": 91.05674977672336,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 75.32596971984886,
+      "chassis_after_length_mm": 92.18209491570106,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 567.8711943457936,
+      "candidate_path_length_mm": 565.0420407972118,
+      "path_length_increase_pct": -0.49820339132380376,
+      "sampled_max_displacement_mm": 14.514916555820845
+    },
+    {
+      "id": 14,
+      "submitted": true,
+      "before_length_mm": 28.37594285545164,
+      "after_length_mm": 6.582907314741321,
+      "improvement_pct": 76.80109750616938,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 38.09640270601642,
+      "chassis_before_collides": false,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 114.89152277166288,
+      "candidate_path_length_mm": 222.62505701843384,
+      "path_length_increase_pct": 93.76978531382353,
+      "sampled_max_displacement_mm": 60.78763810183378
+    },
+    {
+      "id": 15,
+      "submitted": true,
+      "before_length_mm": 227.05191309804388,
+      "after_length_mm": 11.876558648859543,
+      "improvement_pct": 94.76923207260927,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 18.184641646028272,
+      "chassis_after_length_mm": 143.50375853553166,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 502.70787602338123,
+      "candidate_path_length_mm": 555.8540041804267,
+      "path_length_increase_pct": 10.57197046074798,
+      "sampled_max_displacement_mm": 33.44006679434616
+    },
+    {
+      "id": 19,
+      "submitted": true,
+      "before_length_mm": 72.80931491780866,
+      "after_length_mm": 7.846257513233317,
+      "improvement_pct": 89.22355261536163,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 99.79547128300682,
+      "chassis_after_length_mm": 122.51410749212441,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 299.4276649034354,
+      "candidate_path_length_mm": 404.0708290738244,
+      "path_length_increase_pct": 34.94772742663446,
+      "sampled_max_displacement_mm": 87.26046129572782
+    },
+    {
+      "id": 20,
+      "submitted": true,
+      "before_length_mm": 0.0,
+      "after_length_mm": 0.0,
+      "improvement_pct": null,
+      "before_collides": false,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 158.6386484945061,
+      "candidate_path_length_mm": 158.5097119332157,
+      "path_length_increase_pct": -0.0812768909178363,
+      "sampled_max_displacement_mm": 6.7799712647913335
+    },
+    {
+      "id": 22,
+      "submitted": true,
+      "before_length_mm": 198.9964088469145,
+      "after_length_mm": 10.71504073175948,
+      "improvement_pct": 94.61546025184684,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 108.37803282048459,
+      "chassis_after_length_mm": 137.54997291127057,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 465.0851366669961,
+      "candidate_path_length_mm": 470.05833833820816,
+      "path_length_increase_pct": 1.0693099562054886,
+      "sampled_max_displacement_mm": 7.196769627979605
+    },
+    {
+      "id": 23,
+      "submitted": true,
+      "before_length_mm": 43.77780584300573,
+      "after_length_mm": 9.531852629235704,
+      "improvement_pct": 78.2267465312938,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 18.769541010776226,
+      "chassis_after_length_mm": 74.05402811045485,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 117.97182437737955,
+      "candidate_path_length_mm": 185.29620814743765,
+      "path_length_increase_pct": 57.06818905732476,
+      "sampled_max_displacement_mm": 41.85137523455125
+    },
+    {
+      "id": 26,
+      "submitted": true,
+      "before_length_mm": 56.30129635330753,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 75.48737225395423,
+      "chassis_after_length_mm": 38.3311260965937,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 319.70972678312575,
+      "candidate_path_length_mm": 330.3331746018676,
+      "path_length_increase_pct": 3.3228416056131582,
+      "sampled_max_displacement_mm": 12.276468738948417
+    },
+    {
+      "id": 28,
+      "submitted": true,
+      "before_length_mm": 20.998931593124205,
+      "after_length_mm": 9.61444846960995,
+      "improvement_pct": 54.21458264687112,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 5.249530189032329,
+      "chassis_after_length_mm": 7.804906942880483,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 120.14693677621307,
+      "candidate_path_length_mm": 149.39372449312174,
+      "path_length_increase_pct": 24.342516340124455,
+      "sampled_max_displacement_mm": 25.34469113177979
+    },
+    {
+      "id": 29,
+      "submitted": true,
+      "before_length_mm": 163.89147710843633,
+      "after_length_mm": 12.55533938113556,
+      "improvement_pct": 92.33923593669944,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 12.703765500805142,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": true,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 478.9386773099095,
+      "candidate_path_length_mm": 490.5982755046867,
+      "path_length_increase_pct": 2.434465777595274,
+      "sampled_max_displacement_mm": 23.25745176304263
+    },
+    {
+      "id": 30,
+      "submitted": true,
+      "before_length_mm": 28.4926925922016,
+      "after_length_mm": 5.696573256158182,
+      "improvement_pct": 80.00689742563212,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 377.63370782045405,
+      "candidate_path_length_mm": 395.43389284152914,
+      "path_length_increase_pct": 4.713611272629881,
+      "sampled_max_displacement_mm": 27.10804610165021
+    },
+    {
+      "id": 31,
+      "submitted": true,
+      "before_length_mm": 31.534644285687268,
+      "after_length_mm": 1.104979189900189,
+      "improvement_pct": 96.49598333854773,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 163.81653323809596,
+      "chassis_after_length_mm": 173.35151719120674,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 308.81362574951845,
+      "candidate_path_length_mm": 345.8484346230719,
+      "path_length_increase_pct": 11.99260841670009,
+      "sampled_max_displacement_mm": 35.21698584087329
+    },
+    {
+      "id": 32,
+      "submitted": true,
+      "before_length_mm": 128.6328343991648,
+      "after_length_mm": 4.898397131391062,
+      "improvement_pct": 96.19195429046468,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 17.11380966878251,
+      "chassis_after_length_mm": 57.49596010411126,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 199.84005255207006,
+      "candidate_path_length_mm": 235.31738729421414,
+      "path_length_increase_pct": 17.75286499832167,
+      "sampled_max_displacement_mm": 36.49018664312685
+    },
+    {
+      "id": 33,
+      "submitted": true,
+      "before_length_mm": 71.45102371665911,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 4.613874897892456,
+      "chassis_after_length_mm": 20.81745385685574,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 291.57657833991044,
+      "candidate_path_length_mm": 286.91135155061994,
+      "path_length_increase_pct": -1.600000526740497,
+      "sampled_max_displacement_mm": 11.09497595236487
+    },
+    {
+      "id": 34,
+      "submitted": true,
+      "before_length_mm": 12.785378990198996,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 275.088273669896,
+      "candidate_path_length_mm": 274.45512935123304,
+      "path_length_increase_pct": -0.23016041731489523,
+      "sampled_max_displacement_mm": 3.535205293036432
+    },
+    {
+      "id": 40,
+      "submitted": true,
+      "before_length_mm": 6.481976368364092,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 321.4082298107912,
+      "candidate_path_length_mm": 325.49316901626264,
+      "path_length_increase_pct": 1.2709504071741318,
+      "sampled_max_displacement_mm": 6.456802566281681
+    },
+    {
+      "id": 41,
+      "submitted": true,
+      "before_length_mm": 0.72792374356818,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 6.598252425462648,
+      "chassis_before_collides": false,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 250.33645267979853,
+      "candidate_path_length_mm": 246.77960679740008,
+      "path_length_increase_pct": -1.420826189842972,
+      "sampled_max_displacement_mm": 6.412698992060229
+    },
+    {
+      "id": 42,
+      "submitted": true,
+      "before_length_mm": 15.879431440519607,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 9.818056103129384,
+      "chassis_before_collides": false,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 396.5008366028402,
+      "candidate_path_length_mm": 393.83304124445596,
+      "path_length_increase_pct": -0.6728347363000542,
+      "sampled_max_displacement_mm": 5.423411857485429
+    },
+    {
+      "id": 46,
+      "submitted": true,
+      "before_length_mm": 249.82492073841152,
+      "after_length_mm": 14.576191111111735,
+      "improvement_pct": 94.16543751198692,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 6.440314958512774,
+      "chassis_after_length_mm": 86.66978200999114,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 422.2072109688525,
+      "candidate_path_length_mm": 420.6035431339595,
+      "path_length_increase_pct": -0.3798295702276189,
+      "sampled_max_displacement_mm": 15.094954607698275
+    },
+    {
+      "id": 47,
+      "submitted": true,
+      "before_length_mm": 171.62800657399748,
+      "after_length_mm": 11.95842073174747,
+      "improvement_pct": 93.03236052759746,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 11.60489245069433,
+      "chassis_after_length_mm": 76.05763498693042,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 475.1774816311746,
+      "candidate_path_length_mm": 506.08486090941545,
+      "path_length_increase_pct": 6.504386355208358,
+      "sampled_max_displacement_mm": 36.1482399254783
+    },
+    {
+      "id": 49,
+      "submitted": true,
+      "before_length_mm": 60.605134336675114,
+      "after_length_mm": 10.061403796807655,
+      "improvement_pct": 83.39843000608778,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 0.0,
+      "chassis_after_length_mm": 0.0,
+      "chassis_before_collides": false,
+      "chassis_after_collides": false,
+      "original_path_length_mm": 135.00193956371274,
+      "candidate_path_length_mm": 160.16642593616254,
+      "path_length_increase_pct": 18.64009247109646,
+      "sampled_max_displacement_mm": 25.162626140549314
+    },
+    {
+      "id": 50,
+      "submitted": true,
+      "before_length_mm": 71.49004427178762,
+      "after_length_mm": 0.0,
+      "improvement_pct": 100.0,
+      "before_collides": true,
+      "after_collides": false,
+      "chassis_before_length_mm": 59.898756485789164,
+      "chassis_after_length_mm": 64.90530806781712,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 454.50984726520886,
+      "candidate_path_length_mm": 457.4859911481542,
+      "path_length_increase_pct": 0.6548029489026108,
+      "sampled_max_displacement_mm": 4.7910674268897155
+    },
+    {
+      "id": 54,
+      "submitted": true,
+      "before_length_mm": 19.037484335477785,
+      "after_length_mm": 3.4019873403886214,
+      "improvement_pct": 82.13005836044859,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 46.02007850064732,
+      "chassis_after_length_mm": 190.41789464662344,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 208.9602880265901,
+      "candidate_path_length_mm": 306.2971732288598,
+      "path_length_increase_pct": 46.58152327483565,
+      "sampled_max_displacement_mm": 46.01701112368702
+    },
+    {
+      "id": 58,
+      "submitted": true,
+      "before_length_mm": 265.8387771669231,
+      "after_length_mm": 11.328728186596324,
+      "improvement_pct": 95.73849672823205,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 72.17222371025845,
+      "chassis_after_length_mm": 344.34710697313875,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 529.6559819001402,
+      "candidate_path_length_mm": 598.166951069941,
+      "path_length_increase_pct": 12.934993941542539,
+      "sampled_max_displacement_mm": 59.00599958827654
+    },
+    {
+      "id": 63,
+      "submitted": true,
+      "before_length_mm": 61.93097231664481,
+      "after_length_mm": 5.199357243786344,
+      "improvement_pct": 91.60459290514167,
+      "before_collides": true,
+      "after_collides": true,
+      "chassis_before_length_mm": 26.355169716551988,
+      "chassis_after_length_mm": 67.11228834475914,
+      "chassis_before_collides": true,
+      "chassis_after_collides": true,
+      "original_path_length_mm": 339.34350561094567,
+      "candidate_path_length_mm": 366.80988342242034,
+      "path_length_increase_pct": 8.093974794662673,
+      "sampled_max_displacement_mm": 23.953539655236206
+    }
+  ]
+}

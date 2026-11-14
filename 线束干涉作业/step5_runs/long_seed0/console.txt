@@ -1,0 +1,91 @@
+  1  ID 49  T=5.000   accept  current=2735.433  best=2733.328
+  2  ID 22  T=4.970   reject  current=2735.433  best=2733.328
+  3  ID 13  T=4.940   accept  current=2680.462  best=2680.462
+ 10  ID  6  T=4.736   reject  current=2578.211  best=2578.211
+ 20  ID 54  T=4.460   accept  current=2392.016  best=2392.016
+ 30  ID 14  T=4.199   accept  current=2239.911  best=2239.911
+ 40  ID 31  T=3.954   accept  current=2066.070  best=2066.070
+ 50  ID 15  T=3.723   accept  current=1887.563  best=1887.563
+ 60  ID  6  T=3.506   accept  current=1604.321  best=1604.321
+ 70  ID  1  T=3.301   accept  current=1384.780  best=1384.780
+ 80  ID 50  T=3.108   accept  current=1267.904  best=1267.904
+ 90  ID 49  T=2.927   accept  current=1236.379  best=1236.379
+100  ID 20  T=2.756   accept  current=1171.089  best=1171.089
+110  ID  1  T=2.595   reject  current=1145.668  best=1145.668
+120  ID 32  T=2.443   accept  current=1033.402  best=1033.402
+130  ID 42  T=2.300   accept  current=988.922  best=988.922
+140  ID 54  T=2.166   accept  current=909.605  best=909.605
+150  ID 50  T=2.040   reject  current=867.316  best=867.316
+160  ID  1  T=1.920   reject  current=847.925  best=847.925
+170  ID 15  T=1.808   reject  current=835.417  best=835.417
+180  ID 29  T=1.703   accept  current=786.983  best=786.983
+190  ID 32  T=1.603   accept  current=745.914  best=745.914
+200  ID 41  T=1.510   accept  current=717.889  best=717.889
+210  ID 46  T=1.421   accept  current=674.691  best=674.691
+220  ID 42  T=1.338   accept  current=640.340  best=640.340
+230  ID 22  T=1.260   reject  current=626.900  best=626.900
+240  ID 13  T=1.187   accept  current=587.402  best=587.402
+250  ID 46  T=1.117   accept  current=556.175  best=556.175
+260  ID 13  T=1.052   accept  current=543.540  best=543.540
+270  ID 19  T=0.991   accept  current=542.435  best=542.085
+280  ID  1  T=0.933   reject  current=513.040  best=513.040
+290  ID  1  T=0.878   reject  current=475.925  best=475.925
+300  ID  5  T=0.827   reject  current=435.104  best=435.104
+310  ID 14  T=0.779   reject  current=433.835  best=433.835
+320  ID 46  T=0.733   accept  current=406.626  best=406.626
+330  ID 29  T=0.690   reject  current=387.772  best=387.772
+340  ID  5  T=0.650   reject  current=376.176  best=376.176
+350  ID 46  T=0.612   reject  current=376.412  best=374.427
+360  ID  5  T=0.576   reject  current=367.562  best=367.562
+370  ID 31  T=0.543   accept  current=352.132  best=352.132
+380  ID 30  T=0.511   accept  current=347.885  best=347.885
+390  ID 47  T=0.481   reject  current=343.985  best=343.606
+400  ID 46  T=0.453   accept  current=328.427  best=328.427
+410  ID 22  T=0.427   accept  current=325.449  best=325.449
+420  ID 58  T=0.402   accept  current=315.407  best=315.073
+430  ID 28  T=0.378   reject  current=311.314  best=311.314
+440  ID 15  T=0.356   accept  current=309.997  best=309.997
+450  ID 15  T=0.335   reject  current=308.580  best=308.580
+460  ID 50  T=0.316   accept  current=298.211  best=298.211
+470  ID 41  T=0.297   accept  current=293.144  best=293.144
+480  ID 28  T=0.280   accept  current=292.701  best=292.701
+490  ID 13  T=0.264   reject  current=292.422  best=292.233
+500  ID  5  T=0.248   reject  current=291.928  best=291.928
+510  ID 28  T=0.234   reject  current=291.927  best=291.927
+520  ID 31  T=0.220   accept  current=285.758  best=285.758
+530  ID 28  T=0.207   reject  current=284.434  best=284.434
+540  ID 29  T=0.195   reject  current=284.434  best=284.434
+550  ID 14  T=0.184   accept  current=284.364  best=284.364
+560  ID 13  T=0.173   accept  current=280.142  best=280.142
+570  ID 13  T=0.163   accept  current=280.052  best=279.978
+580  ID 47  T=0.153   reject  current=275.243  best=275.243
+590  ID 20  T=0.144   accept  current=266.081  best=266.081
+600  ID 13  T=0.136   reject  current=265.038  best=265.038
+610  ID  1  T=0.128   reject  current=262.165  best=262.165
+620  ID 15  T=0.121   accept  current=261.513  best=261.513
+630  ID  5  T=0.114   reject  current=261.416  best=261.416
+640  ID 29  T=0.107   reject  current=261.028  best=261.028
+650  ID 14  T=0.101   reject  current=258.992  best=258.820
+660  ID  6  T=0.095   reject  current=258.621  best=258.621
+670  ID 22  T=0.089   reject  current=257.004  best=257.004
+680  ID 58  T=0.084   reject  current=255.979  best=255.979
+690  ID 19  T=0.079   reject  current=255.674  best=255.674
+700  ID  5  T=0.074   reject  current=254.998  best=254.998
+710  ID 19  T=0.070   reject  current=254.489  best=254.489
+720  ID 29  T=0.066   reject  current=254.273  best=254.273
+730  ID 30  T=0.062   reject  current=254.273  best=254.273
+740  ID 20  T=0.059   accept  current=254.217  best=254.217
+750  ID 58  T=0.055   reject  current=254.216  best=254.216
+760  ID 54  T=0.052   accept  current=253.925  best=253.925
+770  ID 13  T=0.049   accept  current=252.931  best=252.921
+780  ID  5  T=0.046   reject  current=252.736  best=252.736
+790  ID 29  T=0.043   reject  current=252.072  best=252.072
+800  ID 28  T=0.041   reject  current=251.607  best=251.607
+810  ID 47  T=0.038   accept  current=251.306  best=251.306
+820  ID  5  T=0.036   reject  current=249.479  best=249.479
+830  ID 47  T=0.034   reject  current=248.961  best=248.961
+840  ID  5  T=0.032   accept  current=247.117  best=247.117
+850  ID  5  T=0.030   reject  current=247.012  best=247.012
+Best score: 2733.3283 -> 247.0122 mm (+90.96% improvement)
+Search: 47.67 s, 851 scene evaluations including the baseline
+Artifacts: /Users/zeyang/Documents/ChatGPT/codex/线束干涉作业/step5_runs/long_seed0

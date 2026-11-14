@@ -1,0 +1,10 @@
+  1  ID 49  T=5.000   accept  current=2735.433  best=2733.328
+  2  ID 22  T=4.500   reject  current=2735.433  best=2733.328
+  3  ID 13  T=4.050   accept  current=2680.462  best=2680.462
+ 10  ID  6  T=1.937   reject  current=2578.211  best=2578.211
+ 20  ID 54  T=0.675   accept  current=2392.016  best=2392.016
+ 30  ID 14  T=0.236   accept  current=2239.911  best=2239.911
+ 40  ID 31  T=0.082   accept  current=2066.070  best=2066.070
+Best score: 2733.3283 -> 2066.0702 mm (+24.41% improvement)
+Search: 4.65 s, 41 scene evaluations including the baseline
+Artifacts: /Users/zeyang/Documents/ChatGPT/codex/线束干涉作业/step5_runs/check40

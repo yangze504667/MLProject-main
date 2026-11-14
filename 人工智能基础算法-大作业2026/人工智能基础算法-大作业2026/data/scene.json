@@ -1,0 +1,23 @@
+{
+  "origin": [
+    306.0,
+    132.0,
+    -145.0
+  ],
+  "voxel_size": 1.0,
+  "dimensions": [
+    92,
+    646,
+    363
+  ],
+  "axis_order": "xyz",
+  "storage_order": "C",
+  "dtype": "uint8",
+  "occupied_value": 1,
+  "free_value": 0,
+  "type": "surface_occupancy",
+  "source_files": [
+    "Bot.ply",
+    "Top.ply"
+  ]
+}
